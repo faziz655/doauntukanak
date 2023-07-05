@@ -68,17 +68,17 @@
   "categories": [
     {
       "id": 1,
-      "name": "M25 kisah nabi dan rasul",
-      "image": "https://raw.githubusercontent.com/faziz655/kisahrasul/main/kisahfitur%20(1).png"
+      "name": "Doa Anak",
+      "image": "https://raw.githubusercontent.com/faziz655/doauntukanak/main/doafitur%20(1).png"
     }
   ],
   "posts": [
     {
       "id": 1,
-      "category": "25 kisah nabi dan rasul",
-      "title": "Rangkuman Kisah Nabi dan Rasul",
-      "image": "https://raw.githubusercontent.com/faziz655/kisahrasul/main/kisahfitur%20(1).png",
-      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/faziz655/kisahrasul/main/rasul.html",
+      "category": "Doa Anak",
+      "title": "Kumpulan Doa untuk Anak",
+      "image": "https://raw.githubusercontent.com/faziz655/doauntukanak/main/doafitur%20(1).png",
+      "content": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/faziz655/doauntukanak/main/doaanak.html",
       "video": ""
     }
 		
